@@ -1,0 +1,69 @@
+{
+    "name" : "Beholder"
+} 
+{
+    "name" : "Mind Flayer"
+} 
+{
+    "name" : "Drow"
+} 
+{
+    "name" : "Dragons"
+} 
+{
+    "name" : "Owlbear"
+} 
+{
+    "name" : "Bulette"
+} 
+{
+    "name" : "Rust Monster"
+} 
+{
+    "name" : "Gelatinous Cube"
+} 
+{
+    "name" : "Hill Giant"
+} 
+{
+    "name" : "Stone Giant"
+} 
+{
+    "name" : "Frost Giant"
+} 
+{
+    "name" : "Fire Giant"
+} 
+{
+    "name" : "Cloud Giant"
+} 
+{
+    "name" : "Storm Giant"
+} 
+{
+    "name" : "Displacer Beast"
+} 
+{
+    "name" : "Githyanki"
+} 
+{
+    "name" : "Kobold"
+} 
+{
+    "name" : "Kuo-Toa"
+} 
+{
+    "name" : "Lich"
+} 
+{
+    "name" : "Orc"
+} 
+{
+    "name" : "Slaad"
+} 
+{
+    "name" : "Umber Hulk"
+} 
+{
+    "name" : "Yuan-ti"
+} 

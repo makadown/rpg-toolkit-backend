@@ -1,0 +1,18 @@
+{
+    "picture" : [ "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF",
+                  "#FFF", "#000", "#000", "#FFF", "#FFF", "#FFF", "#000", "#FFF",
+                  "#FFF", "#FFF", "#FFF", "#000", "#000", "#000", "#FFF", "#FFF",
+                  "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF",
+                  "#FFF", "#FFF", "#FFF", "#000", "#FFF", "#000", "#FFF", "#FFF",
+                  "#FFF", "#000", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF", "#FFF",
+                  "#FFF", "#FFF", "#000", "#FFF", "#000", "#FFF", "#000", "#FFF",
+                  "#FFF", "#FFF", "#FFF", "#000", "#FFF", "#000", "#FFF", "#FFF" ],
+     "name" : "Bungilla Ice",
+     "level" : 6,
+     "monsterrace": "5b416db600725479c6752b38",
+     "abilities" : [ "5b416e9d00725479c67531b5", "5b416e9d00725479c67531b9", "5b416e9c00725479c67531a7" ],
+     "str": 60,
+     "int": 10,
+     "dex": 10,
+     "deleted": false
+}

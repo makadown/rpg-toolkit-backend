@@ -1,0 +1,21 @@
+{
+    "name" : "Paladin"
+} 
+{
+    "name" : "Ranger"
+} 
+ {
+    "name" : "Barbarian"
+} 
+ {
+    "name" : "Wizard"
+} 
+ {
+    "name" : "Cleric"
+} 
+ {
+    "name" : "Warrior"
+} 
+ {
+    "name" : "Thief"
+} 

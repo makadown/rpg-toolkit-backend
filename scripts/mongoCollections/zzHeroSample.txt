@@ -1,0 +1,12 @@
+{
+			"firstname": "Uther",
+            "lastname": "Lightbringer",
+            "level": 1,
+            "race": "5b416c3600725479c6751dd9",
+            "class": "5b416bc700725479c67519da",
+            "weapon": "5b416caf00725479c6752283",
+            "str": 18,
+            "int": 18,
+            "dex": 18,
+            "deleted": false
+}

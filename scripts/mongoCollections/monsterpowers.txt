@@ -1,0 +1,30 @@
+{
+    "name" : "Shadow Ball"
+} 
+{
+    "name" : "Aerial Ace"
+} 
+{
+    "name" : "Giga Drain"
+} 
+{
+    "name" : "Thunderbolt"
+} 
+{
+    "name" : "Earthquake"
+} 
+{
+    "name" : "Crunch"
+} 
+{
+    "name" : "Double Team"
+}
+{
+    "name" : "Psychic"
+} 
+{
+    "name" : "Ice Beam"
+} 
+{
+    "name" : "Surf"
+}

@@ -1,0 +1,21 @@
+{
+    "name" : "Human"
+} 
+ {
+    "name" : "Elf"
+} 
+{
+    "name" : "Halfling"
+} 
+{
+    "name" : "Dwarf"
+} 
+{
+    "name" : "Half-orc"
+} 
+{
+    "name" : "Half-elf"
+} 
+{
+    "name" : "Dragonborn"
+} 

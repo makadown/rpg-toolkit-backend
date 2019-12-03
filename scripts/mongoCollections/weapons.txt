@@ -1,0 +1,15 @@
+{
+    "name" : "Sword"
+} 
+{
+    "name" : "Dagger"
+} 
+{
+    "name" : "Hammer"
+} 
+{
+    "name" : "Bow and Arrows"
+} 
+{
+    "name" : "Staff"
+} 
