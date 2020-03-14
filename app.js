@@ -5,7 +5,7 @@ var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
-var dbConnection = module.exports.dbconnection;
+var dbConnection = process.env.MONGODB_URI || 'mongodb://localhost:27017/rpgtoolkitDB';
 // Inicializar variables
 var app = express();
 
@@ -38,7 +38,10 @@ var raceRoutes = require('./routes/races');
 var weaponRoutes = require('./routes/weapons');
 
 // DB Connect
-mongoose.connect(dbConnection, { useNewUrlParser: true });
+console.log('CONECTANDO');
+console.log(dbConnection);
+mongoose.connect(dbConnection, 
+    { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true });
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function() {
